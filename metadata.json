@@ -1,0 +1,6 @@
+{
+  "name": "ShipTracker",
+  "description": "GJandAsher ShipTracker: Outbound Logistics, Scanning, Dispatch Batches, Returns, and Analytics Manager",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
